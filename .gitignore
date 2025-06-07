@@ -46,3 +46,6 @@ dist/
 
 # Logs
 *.log
+
+# PyCharm Setting
+.idea/
