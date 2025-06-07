@@ -11,5 +11,5 @@ This project contains tools for:
 ```
 ├── 2D_spline_approximation.py      # Approximate and analyze 2D splines
 ├── 3D_spline_approximation.py      # Approximate and analyze 3D splines
-└── revit_generate_points.py        # RevitPythonShell script to extract spline points (unfinished)
+└── revit_generate_points.py        # Script to extract Revit spline points(unfinished)
 ```
